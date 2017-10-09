@@ -43,7 +43,7 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 
 *(Syllabus last updated on 2017-10-09)*
 
-Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_15-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no)
+Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_15-Schedule/Schedule_Dashboard?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true)
 .
 
 ## Your Team
