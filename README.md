@@ -41,7 +41,7 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 | 10 | 2017-12-11 | All | Final Project Labs | | **[Final Project](./projects/final-projects/05-presentation)** |
 | 10 | 2017-12-13 | All | Final Project Presentations | | **[Final Project](./projects/final-projects/05-presentation)** |
 
-*(Syllabus last updated on 2016-10-09)*
+*(Syllabus last updated on 2017-10-09)*
 
 Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_15-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no)
 .
