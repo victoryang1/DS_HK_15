@@ -15,7 +15,7 @@ Welcome to Data Science! In this first project you will create a framework to sc
 
 #### 1. Completed iPython Notebook
 
-**Tip: Copy and fill-in answers within the starter notebook (https://github.com/ga-students/DS_HK_14/blob/master/projects/unit-projects/project-1/starter-code/project1-starter.ipynb)**
+**Tip: Copy and fill-in answers within the starter notebook (https://github.com/ga-students/DS_HK_15/blob/master/projects/unit-projects/project-1/starter-code/project1-starter.ipynb)**
 
 - **Requirements:**
     1. Identify features of the dataset, including the outcome (the variable you want to predict) and covariates/predictors
@@ -29,11 +29,11 @@ Welcome to Data Science! In this first project you will create a framework to sc
     - Articulate the risks and assumptions of this alternative model
 
 - **Submission:**
-    - Due Midnight 01 Aug 2017 via our [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2)
+    - Due Midnight 16 Oct 2017 via our [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2)
 
 #### 2. Completed Lesson 3 Lab:
 
-Submit a completed copy of the in-class lab for lesson 3: https://github.com/ga-students/DS_HK_14/blob/master/projects/unit-projects/project-3/starter-code/project3-starter.ipynb
+Submit a completed copy of the in-class lab for lesson 3: https://github.com/ga-students/DS_HK_15/blob/master/projects/unit-projects/project-3/starter-code/project3-starter.ipynb
 This code will be made available before lesson 3.
 
 ---
