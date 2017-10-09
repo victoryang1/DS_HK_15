@@ -65,7 +65,7 @@ A 10 to 20 slide deck consisting of:
 
 **Submission:**
 
-  - [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2)
+  - Before 13 Dec 2017
 
 ---
 

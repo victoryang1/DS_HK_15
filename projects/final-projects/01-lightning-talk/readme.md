@@ -33,7 +33,7 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 
 - **Submission:**
     * Present materials in class
-    * Submit presentation to instructor before 01 Nov 2017 via our [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
+    * Submit presentation to instructor before 01 Nov 2017.
 
 ### TIMELINE
 

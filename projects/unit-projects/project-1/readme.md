@@ -29,7 +29,7 @@ Welcome to Data Science! In this first project you will create a framework to sc
     - Articulate the risks and assumptions of this alternative model
 
 - **Submission:**
-    - Due Midnight 16 Oct 2017 via our [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2)
+    - Due Midnight 16 Oct 2017
 
 #### 2. Completed Lesson 3 Lab:
 
