@@ -28,7 +28,7 @@ Remember, completing this task earlier will give you more chances to iterate and
     - "Convert" your goal metric from a statistical one (like Mean Squared Error) and tie it to something non-data people can understand, like a cost/benefit analysis, etc.
 
 - **Submission:**	 
-  - 07 Sep 2017 2017 via our [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2)
+  - 22 Nov 2017
 
 ---
 

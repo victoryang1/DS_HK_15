@@ -30,8 +30,8 @@ Following these steps will help you better understand your dataset.
     - Advanced Option: Replace missing values using multiple imputation methods
 
 - **Submission:**
-    - Due Midnight 08 Aug 2017 via our [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2)
-
+    - Due Midnight 18 Oct 2017
+    
 ---
 
 ### TIMELINE

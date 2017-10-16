@@ -20,8 +20,8 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 | | | | **Unit 1 - Research Design and Exploratory Data Analysis** | | |
 | 1 | 2017-10-09 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
 | 1 | 2017-10-11 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
-| 2 | 2017-10-16 | Mart | [Exploratory Data Analysis](./lessons/lesson-03) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
-| 2 | 2017-10-18 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-04) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
+| 2 | 2017-10-16 | Mart | [Exploratory Data Analysis](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
+| 2 | 2017-10-18 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-04) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
 | 3 | 2017-10-23 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-05) | **[Unit Project 3](./projects/unit-projects/project-3)** | |
 | | | | **Unit 2 - Foundations of Data Modelling** | | |
 | 3 | 2017-10-25 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
